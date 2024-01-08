@@ -28,7 +28,7 @@
 :root{
 	--dark-bgcolor: #212529;
 	--yellowcolor: #ffc107;
-	--whitecolor: #fff;
+	--whitecolor: rgb(256,256,256);
 	--copyright: #252c32;
 	--lightwhite: #ddd;
 	--darkwhite: #aaa;

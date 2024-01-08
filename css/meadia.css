@@ -19,7 +19,7 @@
     }
     .main_menu li{
         border-width: 50px;
-        border-bottom: 2px solid var(--whitecolor);
+        border-bottom: 1px solid var(--whitecolor);
     }
     .main_menu li:last-child{
         border-bottom: none;
